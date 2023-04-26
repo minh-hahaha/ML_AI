@@ -1,0 +1,4 @@
+file,label
+three-0.jpg,3
+nine-0.jpg,9
+seven-0.jpg
